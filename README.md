@@ -6,7 +6,7 @@
 
 ## Main Findings
 - As PM2.5 regulations under the National Ambient Air Quality Standards (NAAQS) have become more stringent, with new limits set in 1997, 2006, 2012, and 2024, the average levels of PM2.5 in most major metropolitan areas (> 1 million population in the 2023 ACS survey) have decreased significantly. In the Baltimore-Columbia-Towson area for example, average annual rates of PM2.5 declined by 84 percent from 1999 to 2024.
-- From eyeballing the visualization, it appears that there may be a slightly slower decrease in air pollution for cities that have experienced more population growth in the last 10 years (2014-2023) compared to cities that experienced less growth. However, the general trend is pretty consistent across all major metro areas.
+- From eyeballing the visualization, it appears that there could be a slightly slower decrease in air pollution for some cities that have experienced more population growth in the last 10 years (2014-2023) compared to cities that experienced less growth. However, the general trend is pretty consistent across all major metro areas, and this needs more calculation to determine.
 
 ## Data Collection
 - I sourced population data for 2023 from the [U.S. Census Bureau](https://data.census.gov/table/ACSDT5Y2014.B01003?q=B01003&g=010XX00US$31000M1&y=2014) from the 2014 and 2023 ACS 5-Year Estimates Detailed Tables for Metropolitan areas.
