@@ -1,4 +1,4 @@
-# Calculating average PM2.5 levels per the largest fastest-growing metro areas in the U.S. and creating an Observable heat map: [Visualization](https://observablehq.com/d/d4fc67b6f2c423ef)
+# Calculating average PM2.5 levels per the largest metro areas in the U.S. and creating an Observable heat map: [Visualization](https://observablehq.com/d/d4fc67b6f2c423ef)
 
 ## Goal
 - To understand the general trends in particulate matter (PM2.5) air pollution in major metropolitan areas in the U.S., especially those that have experienced the highest recent population growth
