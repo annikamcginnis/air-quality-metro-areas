@@ -28,7 +28,7 @@ I conducted my data analysis in Python using the Pandas library. I filtered the 
 I used fuzzy matching to merge together the population data and the air quality data with an accuracy score of greater than 92 percent, based on my assessment of individual matches. 
 
 I filtered by metropolitan areas greater than 1 million and by 24-HOUR readings, grouped by state and year, and calculated the average air quality reading for each state per year. 
-I sorted this dataframe in order of population growth from 2014-2023.
+I sorted this dataframe in order of population growth from 2014-2023. I chose 24-HOUR readings because they were available for a longer period of time, whereas the 24-HR BLK AVG readings were only available from 2008 onward.
 
 In Observable, I forked [this heat map project](https://observablehq.com/@observablehq/plot-impact-of-vaccines) that replicated a Wall Street Journal visualization. I modified the JavaScript code to visualize average PM2.5 levels per major metropolitan area per year to create [this visualization](https://observablehq.com/d/d4fc67b6f2c423ef), where darker years represent higher PM2.5 values. I added in lines for the years when federal PM2.5 regulations were strengthened. 
 
