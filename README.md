@@ -9,7 +9,7 @@
 - From eyeballing the visualization, it appears that there may be a slightly slower decrease in air pollution for cities that have experienced more population growth in the last 10 years (2014-2023) compared to cities that experienced less growth. However, the general trend is pretty consistent across all major metro areas.
 
 ## Data Collection
-- I sourced population data for 2023 from the [U.S. Census Bureau](https://data.census.gov/table?q=B01003&g=010XX00US$31000M1&y=2014) from the 2014 and 2023 ACS 5-Year Estimates Detailed Tables for Metropolitan areas.
+- I sourced population data for 2023 from the [U.S. Census Bureau](https://data.census.gov/table/ACSDT5Y2014.B01003?q=B01003&g=010XX00US$31000M1&y=2014) from the 2014 and 2023 ACS 5-Year Estimates Detailed Tables for Metropolitan areas.
 - I sourced PM2.5 air quality monitoring data from [Environmental Protection Agency data on PM2.5 FRM/FEM Mass (88101)](https://aqs.epa.gov/aqsweb/airdata/download_files.html). Each row is a separate monitor and monitoring period across the entire United States. Separate data files were downloaded for each year from 1980-2024.
 
 I merged the population data for 2014 and 2023 using fuzzy matching to match metro areas that had slightly revised names. 
