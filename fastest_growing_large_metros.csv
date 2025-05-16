@@ -1,0 +1,54 @@
+metro_area_2010,population_2014,matched_metro_area_2023,match_score,population_2023,pop_pct_change
+"Austin-Round Rock, TX",1835016,"Austin-Round Rock-San Marcos, TX",75.47169811320755,2357497,0.28472830754609224
+"Fresno, CA",948844,"Fresno, CA",100.0,1170942,0.2340721973264309
+"Orlando-Kissimmee-Sanford, FL",2226835,"Orlando-Kissimmee-Sanford, FL",100.0,2721022,0.22192349231083577
+"Raleigh, NC",1189579,"Raleigh-Cary, NC",81.4814814814815,1449594,0.21857732861793963
+"Jacksonville, FL",1380995,"Jacksonville, FL",100.0,1645707,0.19168208429429506
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1730515,"Nashville-Davidson--Murfreesboro--Franklin, TN",100.0,2043713,0.1809854291930437
+"Charlotte-Concord-Gastonia, NC-SC",2298915,"Charlotte-Concord-Gastonia, NC-SC",100.0,2712818,0.18004275930167057
+"Houston-The Woodlands-Sugar Land, TX",6204141,"Houston-Pasadena-The Woodlands, TX",68.57142857142857,7274714,0.17255781259645775
+"San Antonio-New Braunfels, TX",2239222,"San Antonio-New Braunfels, TX",100.0,2612802,0.16683473099138899
+"Dallas-Fort Worth-Arlington, TX",6703020,"Dallas-Fort Worth-Arlington, TX",100.0,7807555,0.16478169541490253
+"Grand Rapids-Wyoming, MI",1007329,"Grand Rapids-Wyoming-Kentwood, MI",84.21052631578947,1154320,0.14592154102582175
+"Phoenix-Mesa-Scottsdale, AZ",4337542,"Phoenix-Mesa-Chandler, AZ",76.92307692307692,4941206,0.13917190888295722
+"Tampa-St. Petersburg-Clearwater, FL",2851235,"Tampa-St. Petersburg-Clearwater, FL",100.0,3240469,0.13651417718988437
+"Atlanta-Sandy Springs-Roswell, GA",5455053,"Atlanta-Sandy Springs-Roswell, GA",100.0,6176937,0.1323330864063099
+"Seattle-Tacoma-Bellevue, WA",3557037,"Seattle-Tacoma-Bellevue, WA",100.0,4021467,0.1305665361366778
+"Salt Lake City, UT",1123643,"Salt Lake City-Murray, UT",83.72093023255813,1261337,0.12254248012936493
+"Oklahoma City, OK",1297998,"Oklahoma City, OK",100.0,1445122,0.11334686185957144
+"Columbus, OH",1948188,"Columbus, OH",100.0,2151847,0.10453765242368807
+"Portland-Vancouver-Hillsboro, OR-WA",2288796,"Portland-Vancouver-Hillsboro, OR-WA",100.0,2510529,0.09687757231312882
+"Sacramento--Roseville--Arden-Arcade, CA",2197422,"Sacramento-Roseville-Folsom, CA",71.42857142857143,2406563,0.09517561943040527
+"Indianapolis-Carmel-Anderson, IN",1931182,"Indianapolis-Carmel-Greenwood, IN",80.0,2106327,0.090693160976024
+"Louisville/Jefferson County, KY-IN",1253305,"Louisville/Jefferson County, KY-IN",100.0,1361847,0.08660461739161657
+"Kansas City, MO-KS",2040869,"Kansas City, MO-KS",100.0,2202006,0.07895509216907112
+"Minneapolis-St. Paul-Bloomington, MN-WI",3424786,"Minneapolis-St. Paul-Bloomington, MN-WI",100.0,3693351,0.0784180383825442
+"Tulsa, OK",954055,"Tulsa, OK",100.0,1026209,0.075628763540886
+"Richmond, VA",1234058,"Richmond, VA",100.0,1327321,0.07557424367412229
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",5863608,"Washington-Arlington-Alexandria, DC-VA-MD-WV",100.0,6263796,0.06824944641592685
+"Riverside-San Bernardino-Ontario, CA",4345485,"Riverside-San Bernardino-Ontario, CA",100.0,4637725,0.0672514115225343
+"Miami-Fort Lauderdale-West Palm Beach, FL",5775204,"Miami-Fort Lauderdale-West Palm Beach, FL",100.0,6138876,0.06297128205341318
+"Cincinnati, OH-KY-IN",2131793,"Cincinnati, OH-KY-IN",100.0,2255257,0.057915566849126535
+"Boston-Cambridge-Newton, MA-NH",4650876,"Boston-Cambridge-Newton, MA-NH",100.0,4917661,0.05736231196015546
+"Tucson, AZ",993144,"Tucson, AZ",100.0,1049947,0.0571951298099772
+"Cleveland-Elyria, OH",2067490,"Cleveland, OH",78.78787878787878,2171978,0.05053857576094685
+"Virginia Beach-Norfolk-Newport News, VA-NC",1697898,"Virginia Beach-Chesapeake-Norfolk, VA-NC",70.73170731707317,1782590,0.04988049929972236
+"Providence-Warwick, RI-MA",1604317,"Providence-Warwick, RI-MA",100.0,1673807,0.04331438238203547
+"San Francisco-Oakland-Hayward, CA",4466251,"San Francisco-Oakland-Fremont, CA",81.81818181818181,4653593,0.04194614230145149
+"Birmingham-Hoover, AL",1135534,"Birmingham, AL",80.0,1181432,0.04041974965082507
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6015336,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",100.0,6241882,0.03766140411774172
+"San Jose-Sunnyvale-Santa Clara, CA",1898457,"San Jose-Sunnyvale-Santa Clara, CA",100.0,1969353,0.03734401147879567
+"Pittsburgh, PA",2358793,"Pittsburgh, PA",100.0,2443921,0.036089644152751
+"Baltimore-Columbia-Towson, MD",2753396,"Baltimore-Columbia-Towson, MD",100.0,2839409,0.031238877371798316
+"Urban Honolulu, HI",975690,"Urban Honolulu, HI",100.0,1003666,0.02867304164232492
+"Buffalo-Cheektowaga-Niagara Falls, NY",1135667,"Buffalo-Cheektowaga, NY",76.66666666666666,1161385,0.022645722733864768
+"Detroit-Warren-Dearborn, MI",4292647,"Detroit-Warren-Dearborn, MI",100.0,4367620,0.017465447310249363
+"St. Louis, MO-IL",2797737,"St. Louis, MO-IL",100.0,2809414,0.004173730411400357
+"Memphis, TN-MS-AR",1337014,"Memphis, TN-MS-AR",100.0,1341606,0.003434519010272144
+"Milwaukee-Waukesha-West Allis, WI",1565368,"Milwaukee-Waukesha, WI",76.36363636363637,1566361,0.0006343556275585038
+"Los Angeles-Long Beach-Anaheim, CA",13060534,"Los Angeles-Long Beach-Anaheim, CA",100.0,13012469,-0.0036801711170462094
+"New York-Newark-Jersey City, NY-NJ-PA",19865045,"New York-Newark-Jersey City, NY-NJ",95.77464788732395,19756722,-0.005452945110368489
+"Chicago-Naperville-Elgin, IL-IN-WI",9516448,"Chicago-Naperville-Elgin, IL-IN",95.38461538461537,9359555,-0.016486508411541784
+"Rochester, NY",1082578,"Rochester, NY",100.0,1058875,-0.02189495814620286
+"Hartford-West Hartford-East Hartford, CT",1215159,"Hartford-West Hartford-East Hartford, CT",100.0,1144012,-0.05854953960757399
+"San Juan-Carolina-Caguas, PR",2297987,"San Juan-Bayamón-Caguas, PR",80.0,2063795,-0.10191180367861088
